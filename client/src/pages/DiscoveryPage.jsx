@@ -6,7 +6,7 @@ import DiscoveryFilters from '../components/DiscoveryFilters.jsx';
 import PaginationControls from '../components/PaginationControls.jsx';
 import DiscoveryStats from '../components/DiscoveryStats.jsx';
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:4000/api';
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://oss-backend-ijrl.onrender.com/api';
 const EMPTY_AGGREGATES = { withAssets: 0, withOpportunities: 0, readyEpisodes: 0 };
 
 const fetchJson = async (url, options = {}) => {

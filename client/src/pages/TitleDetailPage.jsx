@@ -8,7 +8,7 @@ import ScreeningPlayer from '../components/ScreeningPlayer.jsx';
 import PublishControl from '../components/PublishControl.jsx';
 import PublishedStatus from '../components/PublishedStatus.jsx';
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:4000/api';
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://oss-backend-ijrl.onrender.com/api';
 
 const fetchJson = async (url, options = {}) => {
   const response = await fetch(url, options);

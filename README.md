@@ -15,15 +15,8 @@ one-stop-shop/
     └── public/assets/       # PDFs, SVGs, placeholder MP4
 ```
 
-## Getting started
+**Local Development**: The frontend calls the API at http://localhost:4000/api by default.
 
-```bash
-cd /Users//one-stop-shop
-npm install          # installs root + workspaces
-npm run dev          # starts Express (4000) + Vite (5173)
-```
-
-Open http://localhost:5173 to use the tool. The frontend calls the API at http://localhost:4000/api.
 
 ### Available roles
 - **Admin** – full access including sensitive investment notes and opportunities

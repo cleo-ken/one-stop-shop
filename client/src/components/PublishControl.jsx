@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import PropTypes from 'prop-types';
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:4000/api';
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://oss-backend-ijrl.onrender.com/api';
 
 const fetchJson = async (url, options = {}) => {
   const response = await fetch(url, options);

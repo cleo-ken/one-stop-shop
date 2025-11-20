@@ -5,7 +5,7 @@ import DiscoveryPage from './pages/DiscoveryPage.jsx';
 import TitleDetailPage from './pages/TitleDetailPage.jsx';
 import './App.css';
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:4000/api';
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://oss-backend-ijrl.onrender.com/api';
 
 const fetchJson = async (url, options = {}) => {
   const response = await fetch(url, options);
