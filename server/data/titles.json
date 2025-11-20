@@ -1,0 +1,1212 @@
+[
+  {
+    "title_id": "T-001",
+    "title_name": "Skybound Frontier",
+    "synopsis": "A high-altitude discovery team charts unmapped jet streams to unlock new green freight corridors across the globe.",
+    "episodes": [
+      {
+        "episode_id": "T-001-E01",
+        "name": "Lift Off",
+        "duration_min": 48,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-001-E02",
+        "name": "Crosswinds",
+        "duration_min": 50,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-001-E03",
+        "name": "Pressure Drop",
+        "duration_min": 49,
+        "availability": "In Post"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Mina Cortez"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Oliver Pratt"
+      },
+      {
+        "role": "Director",
+        "name": "Sana Idris"
+      }
+    ],
+    "investment": {
+      "budget_million": 72,
+      "sensitive": "Renewable fuel partner pending legal review"
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-100",
+        "type": "pdf",
+        "label": "Series Bible",
+        "file_name": "skybound-series-bible.pdf",
+        "url": "/assets/docs/skybound-series-bible.pdf"
+      },
+      {
+        "asset_id": "A-101",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "skybound-keyart.svg",
+        "url": "/assets/images/skybound-keyart.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    },
+    "tx_date": "2024-03-15"
+  },
+  {
+    "title_id": "T-002",
+    "title_name": "Harbor Protocol",
+    "synopsis": "Cyber investigators race to trace a ghost network rerouting entire shipping manifests overnight.",
+    "episodes": [
+      {
+        "episode_id": "T-002-E01",
+        "name": "Port of Entry",
+        "duration_min": 52,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-002-E02",
+        "name": "Phantom Ledger",
+        "duration_min": 49,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-002-E03",
+        "name": "Zero Hour",
+        "duration_min": 54,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-002-E04",
+        "name": "Failsafe",
+        "duration_min": 47,
+        "availability": "In Post"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Creator",
+        "name": "Noel Quinn"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Farah Im"
+      },
+      {
+        "role": "Lead Cast",
+        "name": "Jessamyn Cole"
+      }
+    ],
+    "investment": {
+      "budget_million": 96,
+      "sensitive": "Co-pro with NovaNordic Defence, disclosing Q3"
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-200",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "harbor-protocol-pitch.pdf",
+        "url": "/assets/docs/harbor-protocol-pitch.pdf"
+      },
+      {
+        "asset_id": "A-201",
+        "type": "image",
+        "label": "Cast Sheet",
+        "file_name": "harbor-cast-sheet.svg",
+        "url": "/assets/images/harbor-cast-sheet.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    },
+    "tx_date": "2024-05-22"
+  },
+  {
+    "title_id": "T-003",
+    "title_name": "Fault Lines",
+    "synopsis": "Emergency planners dig into forgotten seismic data to safeguard a megacity about to host the world expo.",
+    "episodes": [
+      {
+        "episode_id": "T-003-E01",
+        "name": "Wake-Up Call",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-003-E02",
+        "name": "Stress Test",
+        "duration_min": 46,
+        "availability": "Ready"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Claudine Rees"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Marco Deen"
+      },
+      {
+        "role": "Lead Cast",
+        "name": "Priyanka Ash"
+      }
+    ],
+    "investment": {
+      "budget_million": 38,
+      "sensitive": "Disaster lab data rights restricted to RL1 tier"
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-300",
+        "type": "pdf",
+        "label": "Festival One-Sheet",
+        "file_name": "fault-lines-onesheet.pdf",
+        "url": "/assets/docs/fault-lines-onesheet.pdf"
+      },
+      {
+        "asset_id": "A-301",
+        "type": "image",
+        "label": "Expo Booth Graphic",
+        "file_name": "fault-lines-booth.svg",
+        "url": "/assets/images/fault-lines-booth.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    },
+    "tx_date": "2024-07-10"
+  },
+  {
+    "title_id": "T-004",
+    "title_name": "Arctic Passage",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-04-13",
+    "episodes": [
+      {
+        "episode_id": "T-004-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-004-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-004-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-004-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      },
+      {
+        "episode_id": "T-004-E05",
+        "name": "Episode 5",
+        "duration_min": 49,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-004-E06",
+        "name": "Episode 6",
+        "duration_min": 50,
+        "availability": "Fine Cut"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 004"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 004"
+      }
+    ],
+    "investment": {
+      "budget_million": 50
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-400",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-004-pitch.pdf",
+        "url": "/assets/docs/title-004-pitch.pdf"
+      },
+      {
+        "asset_id": "A-401",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-004-art.svg",
+        "url": "/assets/images/title-004-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-005",
+    "title_name": "Digital Divide",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-05-16",
+    "episodes": [
+      {
+        "episode_id": "T-005-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-005-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-005-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-005-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      },
+      {
+        "episode_id": "T-005-E05",
+        "name": "Episode 5",
+        "duration_min": 49,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-005-E06",
+        "name": "Episode 6",
+        "duration_min": 50,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-005-E07",
+        "name": "Episode 7",
+        "duration_min": 51,
+        "availability": "Picture Lock"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 005"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 005"
+      }
+    ],
+    "investment": {
+      "budget_million": 55
+    },
+    "marketing_assets": [],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-006",
+    "title_name": "Neon Nights",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-06-19",
+    "episodes": [
+      {
+        "episode_id": "T-006-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-006-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 006"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 006"
+      }
+    ],
+    "investment": {
+      "budget_million": 60,
+      "sensitive": "Confidential notes for title 006"
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-600",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-006-pitch.pdf",
+        "url": "/assets/docs/title-006-pitch.pdf"
+      },
+      {
+        "asset_id": "A-601",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-006-art.svg",
+        "url": "/assets/images/title-006-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-007",
+    "title_name": "Quantum Quest",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-07-22",
+    "episodes": [
+      {
+        "episode_id": "T-007-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-007-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-007-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 007"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 007"
+      }
+    ],
+    "investment": {
+      "budget_million": 65
+    },
+    "marketing_assets": [],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-008",
+    "title_name": "Solar Flare",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-08-25",
+    "episodes": [
+      {
+        "episode_id": "T-008-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-008-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-008-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-008-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 008"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 008"
+      }
+    ],
+    "investment": {
+      "budget_million": 70
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-800",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-008-pitch.pdf",
+        "url": "/assets/docs/title-008-pitch.pdf"
+      },
+      {
+        "asset_id": "A-801",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-008-art.svg",
+        "url": "/assets/images/title-008-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-009",
+    "title_name": "Tidal Wave",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-09-28",
+    "episodes": [
+      {
+        "episode_id": "T-009-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-009-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-009-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-009-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      },
+      {
+        "episode_id": "T-009-E05",
+        "name": "Episode 5",
+        "duration_min": 49,
+        "availability": "Ready"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 009"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 009"
+      }
+    ],
+    "investment": {
+      "budget_million": 75,
+      "sensitive": "Confidential notes for title 009"
+    },
+    "marketing_assets": [],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-010",
+    "title_name": "Urban Legends",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-10-03",
+    "episodes": [
+      {
+        "episode_id": "T-010-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-010-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-010-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-010-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      },
+      {
+        "episode_id": "T-010-E05",
+        "name": "Episode 5",
+        "duration_min": 49,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-010-E06",
+        "name": "Episode 6",
+        "duration_min": 50,
+        "availability": "Fine Cut"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 010"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 010"
+      }
+    ],
+    "investment": {
+      "budget_million": 80
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-1000",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-010-pitch.pdf",
+        "url": "/assets/docs/title-010-pitch.pdf"
+      },
+      {
+        "asset_id": "A-1001",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-010-art.svg",
+        "url": "/assets/images/title-010-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-011",
+    "title_name": "Wild Frontier",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-11-06",
+    "episodes": [
+      {
+        "episode_id": "T-011-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-011-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-011-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-011-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      },
+      {
+        "episode_id": "T-011-E05",
+        "name": "Episode 5",
+        "duration_min": 49,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-011-E06",
+        "name": "Episode 6",
+        "duration_min": 50,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-011-E07",
+        "name": "Episode 7",
+        "duration_min": 51,
+        "availability": "Picture Lock"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 011"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 011"
+      }
+    ],
+    "investment": {
+      "budget_million": 85
+    },
+    "marketing_assets": [],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-012",
+    "title_name": "Zero Gravity",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-12-09",
+    "episodes": [
+      {
+        "episode_id": "T-012-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-012-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 012"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 012"
+      }
+    ],
+    "investment": {
+      "budget_million": 90,
+      "sensitive": "Confidential notes for title 012"
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-1200",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-012-pitch.pdf",
+        "url": "/assets/docs/title-012-pitch.pdf"
+      },
+      {
+        "asset_id": "A-1201",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-012-art.svg",
+        "url": "/assets/images/title-012-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-013",
+    "title_name": "Alpha Protocol",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-01-12",
+    "episodes": [
+      {
+        "episode_id": "T-013-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-013-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-013-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 013"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 013"
+      }
+    ],
+    "investment": {
+      "budget_million": 95
+    },
+    "marketing_assets": [],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-014",
+    "title_name": "Beta Test",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-02-15",
+    "episodes": [
+      {
+        "episode_id": "T-014-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-014-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-014-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-014-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 014"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 014"
+      }
+    ],
+    "investment": {
+      "budget_million": 100
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-1400",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-014-pitch.pdf",
+        "url": "/assets/docs/title-014-pitch.pdf"
+      },
+      {
+        "asset_id": "A-1401",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-014-art.svg",
+        "url": "/assets/images/title-014-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-015",
+    "title_name": "Gamma Ray",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-03-18",
+    "episodes": [
+      {
+        "episode_id": "T-015-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-015-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-015-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-015-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      },
+      {
+        "episode_id": "T-015-E05",
+        "name": "Episode 5",
+        "duration_min": 49,
+        "availability": "Ready"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 015"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 015"
+      }
+    ],
+    "investment": {
+      "budget_million": 105,
+      "sensitive": "Confidential notes for title 015"
+    },
+    "marketing_assets": [],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-016",
+    "title_name": "Delta Force",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-04-21",
+    "episodes": [
+      {
+        "episode_id": "T-016-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-016-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-016-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-016-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      },
+      {
+        "episode_id": "T-016-E05",
+        "name": "Episode 5",
+        "duration_min": 49,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-016-E06",
+        "name": "Episode 6",
+        "duration_min": 50,
+        "availability": "Fine Cut"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 016"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 016"
+      }
+    ],
+    "investment": {
+      "budget_million": 110
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-1600",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-016-pitch.pdf",
+        "url": "/assets/docs/title-016-pitch.pdf"
+      },
+      {
+        "asset_id": "A-1601",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-016-art.svg",
+        "url": "/assets/images/title-016-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-017",
+    "title_name": "Echo Chamber",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-05-24",
+    "episodes": [
+      {
+        "episode_id": "T-017-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-017-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-017-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-017-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      },
+      {
+        "episode_id": "T-017-E05",
+        "name": "Episode 5",
+        "duration_min": 49,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-017-E06",
+        "name": "Episode 6",
+        "duration_min": 50,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-017-E07",
+        "name": "Episode 7",
+        "duration_min": 51,
+        "availability": "Picture Lock"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 017"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 017"
+      }
+    ],
+    "investment": {
+      "budget_million": 115
+    },
+    "marketing_assets": [],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-018",
+    "title_name": "Fusion Core",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-06-27",
+    "episodes": [
+      {
+        "episode_id": "T-018-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-018-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 018"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 018"
+      }
+    ],
+    "investment": {
+      "budget_million": 120,
+      "sensitive": "Confidential notes for title 018"
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-1800",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-018-pitch.pdf",
+        "url": "/assets/docs/title-018-pitch.pdf"
+      },
+      {
+        "asset_id": "A-1801",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-018-art.svg",
+        "url": "/assets/images/title-018-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-019",
+    "title_name": "Genesis Point",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-07-02",
+    "episodes": [
+      {
+        "episode_id": "T-019-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-019-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-019-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 019"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 019"
+      }
+    ],
+    "investment": {
+      "budget_million": 125
+    },
+    "marketing_assets": [],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  },
+  {
+    "title_id": "T-020",
+    "title_name": "Horizon Line",
+    "synopsis": "Compelling narrative exploring themes of innovation and discovery. Features ensemble cast and cutting-edge production values.",
+    "tx_date": "2024-08-05",
+    "episodes": [
+      {
+        "episode_id": "T-020-E01",
+        "name": "Episode 1",
+        "duration_min": 45,
+        "availability": "Ready"
+      },
+      {
+        "episode_id": "T-020-E02",
+        "name": "Episode 2",
+        "duration_min": 46,
+        "availability": "Fine Cut"
+      },
+      {
+        "episode_id": "T-020-E03",
+        "name": "Episode 3",
+        "duration_min": 47,
+        "availability": "Picture Lock"
+      },
+      {
+        "episode_id": "T-020-E04",
+        "name": "Episode 4",
+        "duration_min": 48,
+        "availability": "In Post"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Showrunner",
+        "name": "Creator 020"
+      },
+      {
+        "role": "Executive Producer",
+        "name": "Producer 020"
+      }
+    ],
+    "investment": {
+      "budget_million": 130
+    },
+    "marketing_assets": [
+      {
+        "asset_id": "A-2000",
+        "type": "pdf",
+        "label": "Pitch Deck",
+        "file_name": "title-020-pitch.pdf",
+        "url": "/assets/docs/title-020-pitch.pdf"
+      },
+      {
+        "asset_id": "A-2001",
+        "type": "image",
+        "label": "Key Art",
+        "file_name": "title-020-art.svg",
+        "url": "/assets/images/title-020-art.svg"
+      }
+    ],
+    "internal_screening": {
+      "stream_url": "/assets/video/placeholder.mp4"
+    }
+  }
+]

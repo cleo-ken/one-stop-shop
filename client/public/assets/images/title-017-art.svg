@@ -1,0 +1,12 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad17" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#006400" />
+      <stop offset="100%" stop-color="#00ff00" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="24" fill="url(#grad17)" />
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="32" fill="#ffffff" opacity="0.9">
+    Title 017
+  </text>
+</svg>

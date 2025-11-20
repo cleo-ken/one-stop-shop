@@ -1,0 +1,6 @@
+[
+  { "role": "Admin", "description": "Full access to every field. Can publish titles." },
+  { "role": "Marketing", "description": "Marketing focus. Can publish titles to sales website." },
+  { "role": "Sales", "description": "Commercial focus. Sensitive investment notes hidden." },
+  { "role": "Viewer", "description": "Read-only marketing view. Investment + deals hidden." }
+]

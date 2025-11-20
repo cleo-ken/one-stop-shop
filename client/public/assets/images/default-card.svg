@@ -1,0 +1,12 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f3b73" />
+      <stop offset="100%" stop-color="#3fa9f5" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="24" fill="url(#grad)" />
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="36" fill="#ffffff" opacity="0.8">
+    Title Preview
+  </text>
+</svg>

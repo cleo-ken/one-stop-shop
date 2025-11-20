@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: oss-backend
+    env: node
+    buildCommand: cd server && npm install
+    startCommand: cd server && npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+    plan: free
+
+  - type: web
+    name: oss-frontend
+    env: static
+    buildCommand: cd client && npm install && npm run build
+    staticPublishPath: client/dist
+    envVars:
+      - key: VITE_API_BASE
+        value: https://oss-backend.onrender.com/api
+    plan: free

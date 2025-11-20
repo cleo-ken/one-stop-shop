@@ -1,0 +1,30 @@
+[
+  {
+    "opp_id": "OP-9001",
+    "title_id": "T-001",
+    "account": "Zephyr Freight Group",
+    "value_gbp": 820000,
+    "stage": "Negotiation"
+  },
+  {
+    "opp_id": "OP-9002",
+    "title_id": "T-001",
+    "account": "Skyport Retail",
+    "value_gbp": 410000,
+    "stage": "Proposal"
+  },
+  {
+    "opp_id": "OP-9010",
+    "title_id": "T-002",
+    "account": "Maritime Secure",
+    "value_gbp": 1200000,
+    "stage": "Value Assessment"
+  },
+  {
+    "opp_id": "OP-9015",
+    "title_id": "T-003",
+    "account": "GlobalEx Pavilion",
+    "value_gbp": 265000,
+    "stage": "Qualification"
+  }
+]
