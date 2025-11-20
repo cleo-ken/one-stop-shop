@@ -18,7 +18,7 @@ one-stop-shop/
 ## Getting started
 
 ```bash
-cd /Users/petergibbons/one-stop-shop
+cd /Users//one-stop-shop
 npm install          # installs root + workspaces
 npm run dev          # starts Express (4000) + Vite (5173)
 ```
